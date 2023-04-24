@@ -1,0 +1,15 @@
+/Users/aleksandrteruskov/Documents/Geek Brains/Введение в языки программирования/Example_2_HelloUser/bin/Debug/net6.0/Example_2_HelloUser
+/Users/aleksandrteruskov/Documents/Geek Brains/Введение в языки программирования/Example_2_HelloUser/bin/Debug/net6.0/Example_2_HelloUser.deps.json
+/Users/aleksandrteruskov/Documents/Geek Brains/Введение в языки программирования/Example_2_HelloUser/bin/Debug/net6.0/Example_2_HelloUser.runtimeconfig.json
+/Users/aleksandrteruskov/Documents/Geek Brains/Введение в языки программирования/Example_2_HelloUser/bin/Debug/net6.0/Example_2_HelloUser.dll
+/Users/aleksandrteruskov/Documents/Geek Brains/Введение в языки программирования/Example_2_HelloUser/bin/Debug/net6.0/Example_2_HelloUser.pdb
+/Users/aleksandrteruskov/Documents/Geek Brains/Введение в языки программирования/Example_2_HelloUser/obj/Debug/net6.0/Example_2_HelloUser.csproj.AssemblyReference.cache
+/Users/aleksandrteruskov/Documents/Geek Brains/Введение в языки программирования/Example_2_HelloUser/obj/Debug/net6.0/Example_2_HelloUser.GeneratedMSBuildEditorConfig.editorconfig
+/Users/aleksandrteruskov/Documents/Geek Brains/Введение в языки программирования/Example_2_HelloUser/obj/Debug/net6.0/Example_2_HelloUser.AssemblyInfoInputs.cache
+/Users/aleksandrteruskov/Documents/Geek Brains/Введение в языки программирования/Example_2_HelloUser/obj/Debug/net6.0/Example_2_HelloUser.AssemblyInfo.cs
+/Users/aleksandrteruskov/Documents/Geek Brains/Введение в языки программирования/Example_2_HelloUser/obj/Debug/net6.0/Example_2_HelloUser.csproj.CoreCompileInputs.cache
+/Users/aleksandrteruskov/Documents/Geek Brains/Введение в языки программирования/Example_2_HelloUser/obj/Debug/net6.0/Example_2_HelloUser.dll
+/Users/aleksandrteruskov/Documents/Geek Brains/Введение в языки программирования/Example_2_HelloUser/obj/Debug/net6.0/refint/Example_2_HelloUser.dll
+/Users/aleksandrteruskov/Documents/Geek Brains/Введение в языки программирования/Example_2_HelloUser/obj/Debug/net6.0/Example_2_HelloUser.pdb
+/Users/aleksandrteruskov/Documents/Geek Brains/Введение в языки программирования/Example_2_HelloUser/obj/Debug/net6.0/Example_2_HelloUser.genruntimeconfig.cache
+/Users/aleksandrteruskov/Documents/Geek Brains/Введение в языки программирования/Example_2_HelloUser/obj/Debug/net6.0/ref/Example_2_HelloUser.dll
