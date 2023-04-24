@@ -1,0 +1,15 @@
+/Users/aleksandrteruskov/Documents/Geek Brains/Введение в языки программирования/Example_3_Sum/bin/Debug/net6.0/Example_3_Sum
+/Users/aleksandrteruskov/Documents/Geek Brains/Введение в языки программирования/Example_3_Sum/bin/Debug/net6.0/Example_3_Sum.deps.json
+/Users/aleksandrteruskov/Documents/Geek Brains/Введение в языки программирования/Example_3_Sum/bin/Debug/net6.0/Example_3_Sum.runtimeconfig.json
+/Users/aleksandrteruskov/Documents/Geek Brains/Введение в языки программирования/Example_3_Sum/bin/Debug/net6.0/Example_3_Sum.dll
+/Users/aleksandrteruskov/Documents/Geek Brains/Введение в языки программирования/Example_3_Sum/bin/Debug/net6.0/Example_3_Sum.pdb
+/Users/aleksandrteruskov/Documents/Geek Brains/Введение в языки программирования/Example_3_Sum/obj/Debug/net6.0/Example_3_Sum.csproj.AssemblyReference.cache
+/Users/aleksandrteruskov/Documents/Geek Brains/Введение в языки программирования/Example_3_Sum/obj/Debug/net6.0/Example_3_Sum.GeneratedMSBuildEditorConfig.editorconfig
+/Users/aleksandrteruskov/Documents/Geek Brains/Введение в языки программирования/Example_3_Sum/obj/Debug/net6.0/Example_3_Sum.AssemblyInfoInputs.cache
+/Users/aleksandrteruskov/Documents/Geek Brains/Введение в языки программирования/Example_3_Sum/obj/Debug/net6.0/Example_3_Sum.AssemblyInfo.cs
+/Users/aleksandrteruskov/Documents/Geek Brains/Введение в языки программирования/Example_3_Sum/obj/Debug/net6.0/Example_3_Sum.csproj.CoreCompileInputs.cache
+/Users/aleksandrteruskov/Documents/Geek Brains/Введение в языки программирования/Example_3_Sum/obj/Debug/net6.0/Example_3_Sum.dll
+/Users/aleksandrteruskov/Documents/Geek Brains/Введение в языки программирования/Example_3_Sum/obj/Debug/net6.0/refint/Example_3_Sum.dll
+/Users/aleksandrteruskov/Documents/Geek Brains/Введение в языки программирования/Example_3_Sum/obj/Debug/net6.0/Example_3_Sum.pdb
+/Users/aleksandrteruskov/Documents/Geek Brains/Введение в языки программирования/Example_3_Sum/obj/Debug/net6.0/Example_3_Sum.genruntimeconfig.cache
+/Users/aleksandrteruskov/Documents/Geek Brains/Введение в языки программирования/Example_3_Sum/obj/Debug/net6.0/ref/Example_3_Sum.dll
